@@ -9,10 +9,10 @@ publish_to: none
 dependencies:
   flutter:
     sdk: flutter
-  camera:
+  camera_platform_interface:
     git:
       url: https://github.com/jslattery26/flutter_packages
-      path: camera_video_player
+      path: camera_platform_interface-1.0.0
 
 flutter:
   plugin:
